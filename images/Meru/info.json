@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 112,
+    "height" : 236
+  }, {
+    "width" : 223,
+    "height" : 471
+  }, {
+    "width" : 445,
+    "height" : 941
+  }, {
+    "width" : 890,
+    "height" : 1882
+  }, {
+    "width" : 1780,
+    "height" : 3764
+  }, {
+    "width" : 3559,
+    "height" : 7527
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3559,
+  "@id" : "https://JIgunma.github.io/Meru/images/Meru",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 7527
+}
