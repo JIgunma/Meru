@@ -1,0 +1,66 @@
+{
+  "id" : "https://JIgunma.github.io/Meru/manifests/manifest3.json",
+  "label" : {
+    "en" : [ "All images loaded in JIgunma/Meru project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2618,
+    "id" : "https://JIgunma.github.io/Meru/images/Meru/canvas/",
+    "label" : {
+      "none" : [ "Meru" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://JIgunma.github.io/Meru/images/Meru/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://JIgunma.github.io/Meru/images/Meru/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 82,
+              "height" : 47
+            }, {
+              "width" : 164,
+              "height" : 94
+            }, {
+              "width" : 328,
+              "height" : 188
+            }, {
+              "width" : 655,
+              "height" : 375
+            }, {
+              "width" : 1309,
+              "height" : 750
+            }, {
+              "width" : 2618,
+              "height" : 1499
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2618,
+            "@id" : "https://JIgunma.github.io/Meru/images/Meru",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1499
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2618,
+          "id" : "https://JIgunma.github.io/Meru/images/Meru/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1499
+        },
+        "target" : "https://JIgunma.github.io/Meru/images/Meru/canvas/"
+      } ]
+    } ],
+    "height" : 1499
+  } ]
+}
