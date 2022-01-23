@@ -1,7 +1,7 @@
 {
   "id" : "https://JIgunma.github.io/Meru/images/manifest.json",
   "label" : {
-    "en" : [ "All images loaded in JIgunma/Meru project" ]
+    "en" : [ "British Library, Or 16100" ]
   },
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
